@@ -9,6 +9,6 @@ pnpm install
 ## Usage
 
 ```bash
-pnpm execute index.ts
+pnpm execute
 
 ```
